@@ -1,14 +1,6 @@
 <h2 data-importer="text" align="left">Hi 👋! My name is BerkayBE, Welcome to my world!</h2>
 
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/BerkayBE/BerkayBE/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/BerkayBE/BerkayBE/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-<img data-importer="image" align="right" height="130" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVSixoRFyUb8ZnGtfXfiYco6-hvov88lYTFeAY6Cp2lA&s=10"  />
-
 
 
 <div data-importer="techs" align="left">
